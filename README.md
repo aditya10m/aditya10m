@@ -54,7 +54,7 @@
 
 - 📧 Email: goswamiaditya147@gmail.com  
 - 🌐 LinkedIn: [Aditya Goswami](https://linkedin.com/in/aditya-goswami-2002adi)  
-- 💼 Portfolio (Coming Soon)
+- 💼 Portfolio  :  (https://aditya10m.github.io/aditya-portfolio/)
 
 ---
 
